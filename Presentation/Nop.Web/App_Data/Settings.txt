@@ -1,2 +1,2 @@
-DataProvider: 
-DataConnectionString: 
+DataProvider: sqlserver
+DataConnectionString: Data Source=xuyzwo8qzv.database.windows.net,1433;Initial Catalog=cfnopdb1;Integrated Security=False;Persist Security Info=False;User ID=cfnopadmin;Password=Jackal213
