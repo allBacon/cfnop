@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Views\MiscWebServices\Configure.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\logo.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

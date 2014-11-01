@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

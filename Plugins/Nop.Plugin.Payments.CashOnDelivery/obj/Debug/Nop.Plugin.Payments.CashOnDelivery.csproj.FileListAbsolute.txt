@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\Configure.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentCashOnDelivery\PaymentInfo.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo2.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

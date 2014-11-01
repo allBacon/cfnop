@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\nopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
